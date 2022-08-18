@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Fernando Cruz</h1>
-<h3 align="center">Un apasionado desarrollador con experiencia como Full-Stack y Desarrollador en Flutter con . Sólidas habilidades de motivación, comunicación y liderazgo.</h3>
+<h3 align="center">Un apasionado desarrollador con experiencia como Full-Stack y Desarrollador en Flutter con  Sólidas habilidades de motivación, comunicación y liderazgo.</h3>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
